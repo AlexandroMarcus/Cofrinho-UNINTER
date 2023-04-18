@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author casa
+ *
+ */
+module ProjetoTrabalhoCofrinho {
+}
