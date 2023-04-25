@@ -1,10 +1,12 @@
 # Cofrinho-UNINTER
-Repositório para o trabalho de conclusão da disciplina de programação orientada a objetos
+Repositório para o trabalho de conclusão da disciplina de programação orientada a objetos.
 
 ## OBJETIVO
-O trabalho consiste em implementar um pequeno sistema que emula um "Cofrinho
+O trabalho consiste em implementar um pequeno sistema que emule um "Cofrinho
 de moedas" em Java. 
-- Crie um menu em que é oferecido ao usuário:
+
+Crie um menu em que é oferecido ao usuário:
+
 - Adicionar moedas de diferentes valores e países em seu cofrinho
 - Remover moedas específicas do cofrinho.
 - Listar todas as moedas que estão dentro do cofrinho
@@ -21,3 +23,7 @@ Demais detalhes de implementação ficam a cargo do aluno que pode desenvolver
 também classes extras ou adicionar métodos e atributos conforme julgar necessário.
 
 ![Diagrama UML](https://user-images.githubusercontent.com/118573303/233230197-0efa57e1-9f10-4261-b275-c1225adbefa8.jpg)
+
+Para executar esse programa será necessário ter instalado:
+- Java Runtime Enviroment (JRE);
+- Integrated Development Environment (IDE);
