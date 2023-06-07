@@ -1,5 +1,5 @@
 # Cofrinho-UNINTER
-Repositório para o trabalho de conclusão da disciplina de programação orientada a objetos.
+Repositório para o trabalho de conclusão da disciplina de programação orientada a objetos - UNINTER.
 
 ## OBJETIVO
 O trabalho consiste em implementar um pequeno sistema que emule um "Cofrinho
